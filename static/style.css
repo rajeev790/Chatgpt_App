@@ -1,0 +1,16 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+}
+#chat-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+}
+.user-message {
+    color: blue;
+}
+.bot-message {
+    color: green;
+}
